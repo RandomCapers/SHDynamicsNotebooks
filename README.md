@@ -1,6 +1,4 @@
 # SHDynamicsNotebooks
-Andrew R. Axelsen, 2025
-
 ---
 
 # ABOUT

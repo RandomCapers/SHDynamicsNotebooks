@@ -1,8 +1,6 @@
 # SHDynamicsNotebooks
 Andrew R. Axelsen, 2025
 
-This code may be used for the purposes of conducting research, but credit must be given.
-
 ---
 
 # ABOUT
